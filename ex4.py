@@ -1,3 +1,12 @@
+# Traceback (most recent call last):
+# File "ex4.py", line 8, in <module>
+#    average_passengers_per_car = car_pool_capacity / passenger
+# NameError: name 'car_pool_capacity' is not defined
+# "the varible car_pool_capacity is defined wrong carpool_capacity
+#  is used instead"
+
+# 4.0 used as float, possible average?
+
 cars = 100
 space_in_a_car = 4.0
 drivers = 30
